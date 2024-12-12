@@ -1,10 +1,13 @@
 I like working with data. 
 
+### Work Experience
+- 2 Years of Experience as a Quant.
+- Currently working as a Quant on a Rates Trading Desk. 
+
 ### Education
 - MSc. Financial Engineering @ Imperial College London
 - B.Eng (Hons) EEE @ University of Manchester
 
-Currently working as a Quant on a Rates Trading Desk. 
 
 <!--
 **97continuum/97continuum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
