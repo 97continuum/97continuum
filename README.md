@@ -1,8 +1,8 @@
 I like working with data. 
 
 ### Education
-- B.Eng (Hons) EEE @ University of Manchester
 - MSc. Financial Engineering @ Imperial College London
+- B.Eng (Hons) EEE @ University of Manchester
 
 Currently working as a Quant on a Rates Trading Desk. 
 
