@@ -1,4 +1,10 @@
-## Hi there 👋
+I like working with data. 
+
+### Education
+- B.Eng (Hons) EEE @ University of Manchester
+- MSc. Financial Engineering @ Imperial College London
+
+Currently working as a Quant on a Rates Trading Desk. 
 
 <!--
 **97continuum/97continuum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
