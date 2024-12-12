@@ -2,7 +2,7 @@ I like working with data.
 
 ### Work Experience
 - 2 Years of Experience as a Quant.
-- Currently working as a Quant on a Rates Trading Desk. 
+- Currently working as a Quant at a Rates Trading Desk. 
 
 ### Education
 - MSc. Financial Engineering @ Imperial College London
